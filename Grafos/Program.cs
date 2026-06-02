@@ -12,9 +12,6 @@ namespace Grafo
             int v = int.Parse(Console.ReadLine()!);
             GrafoNPND grafoNpNd = new GrafoNPND(v);
 
-
-
-
             Console.WriteLine("Ingrese la cantidad de aristas que desea utilizar: ");
             Console.Write("-> ");
 
